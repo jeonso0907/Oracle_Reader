@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581944110040",
+    "project_id": "oracle-reader",
+    "storage_bucket": "oracle-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581944110040:android:60c4ce1805a9f6c28ea0ad",
+        "android_client_info": {
+          "package_name": "com.sj.oraclereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581944110040-lbokviqhq59ir9rvq1inp0hhs4v08o6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKp1_gGljMbLmO4MtYAIyF6RFABluVKdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581944110040-lbokviqhq59ir9rvq1inp0hhs4v08o6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
